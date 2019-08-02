@@ -23,4 +23,7 @@ https://itbilu.com/javascript/js/41KMSZ9a.html
         "env"
       ]
     }
-
+    
+  ### astnc/await
+[node异步编程async/await/promise](https://www.jianshu.com/p/2132904b9768)
+[從Promise 昇華到 async/await](https://ithelp.ithome.com.tw/articles/10201420?sc=iThelpR)
